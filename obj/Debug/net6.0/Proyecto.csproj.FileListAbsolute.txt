@@ -1,0 +1,15 @@
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\bin\Debug\net6.0\Proyecto.exe
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\bin\Debug\net6.0\Proyecto.dll
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.csproj.AssemblyReference.cache
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.dll
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+G:\Documentos\01_CURSOS DE APRENDIZAJE\PLATZI\ESPEC_Desarrollo Backend con CSharp\Manejo de datos con LINQ\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
